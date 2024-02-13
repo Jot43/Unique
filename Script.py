@@ -11,7 +11,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = f"""<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Goldmines_Officialy>𝗠𝗼𝘃𝗶𝗲𝘀 𝗭𝗼𝗻𝗲 𝗕𝗼𝘁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/kmdoffical>𝗠𝗼𝘃𝗶𝗲𝘀 𝗭𝗼𝗻𝗲 𝗕𝗼𝘁</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🔮</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -57,7 +57,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Movies_Zone_Media/3)</code>
+<code>[Button Text](buttonurl:https://t.me/kmdoffical)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -90,9 +90,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = f"""ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/{BOT_USERNAME}>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/{BOT_USERNAME}>☢Bot☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Goldmines_Officialy>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/kmdoffical>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -216,11 +216,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Goldmines_Officialy>Goldmines Officialy</a>
+├• ▫️<a href=https://t.me/kmdoffical>kmdoffical</a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️ <a href=https://t.me/Goldmines_Officialy>Request Group</a>
+👉🏻 ▫️ <a href=https://t.me/+UaERUFtcwSI1ODZh>Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
@@ -690,7 +690,7 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🔮</a>
 
--Dev 2 <a href='https://t.me/{BOT_USERNAME}'>SG</a>
+-Dev 2 <a href='https://t.me/{BOT_USERNAME}'>Bot</a>
 """
 
 
