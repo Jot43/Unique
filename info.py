@@ -53,8 +53,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 BOT_USERNAME = environ.get('BOT_USERNAME', 'kmdorgbot')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'easysky.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '9e05a643d7c8eae2ba33493c2a5545f1256203bd')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://shareus.io/')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'PPrfEdbYHDaV3GFqRvvtGy712nj1')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
