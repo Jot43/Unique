@@ -25,7 +25,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/45223ad25748b1e942234.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/56c7079140b6cd366954e.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/45223ad25748b1e942234.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
@@ -50,7 +50,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-BOT_USERNAME = environ.get('BOT_USERNAME', 'Iron_man_AutoFilter_Reborn_Bot')
+BOT_USERNAME = environ.get('BOT_USERNAME', 'kmdorgbot')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'easysky.in')
